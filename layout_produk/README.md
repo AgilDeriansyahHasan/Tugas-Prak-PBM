@@ -11,8 +11,7 @@ A new Flutter project.
 
 ## Screenshot
 
-
-![FAB](screenshot/fab.png)
+![Layout Produk](images/layout.png)
 
 ## Tujuan Kode
 Membuat halaman detail produk pada aplikasi Flutter dengan tampilan responsif dan interaktif, berisi informasi produk, gambar, rating, pilihan warna & ukuran, deskripsi, serta tombol aksi.
