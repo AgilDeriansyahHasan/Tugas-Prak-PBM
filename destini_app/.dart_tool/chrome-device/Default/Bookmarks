@@ -1,0 +1,126 @@
+{
+   "checksum": "59a8f9e368a8ced6d7e43beabf7cf0fe",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13273588884477631",
+            "date_last_used": "0",
+            "guid": "4e9ec04c-7dc6-40ff-90c9-13d28fb663bc",
+            "id": "6",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13286987600931982",
+            "date_last_used": "13392114609439961",
+            "guid": "6bd3c83e-8f5a-4536-a6d3-15876bf8a96f",
+            "id": "7",
+            "name": "AfifYulistian Mobile Legends Video Streaming Langsung - Tonton AfifYulistian Diputar Mobile Legends | Nimo TV",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.nimo.tv/live/33269110",
+            "visit_count": 1
+         }, {
+            "date_added": "13294475745140975",
+            "date_last_used": "0",
+            "guid": "a5790608-b9b6-4960-9982-202dfaaff3d1",
+            "id": "8",
+            "name": "acca",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ev.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13372326294343897",
+            "date_last_used": "0",
+            "guid": "98512924-a443-44ec-b968-97ca212e51fe",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "localhost/teori4/index.php",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost/teori4/index.php",
+            "visit_count": 1
+         }, {
+            "date_added": "13379988595822696",
+            "date_last_used": "0",
+            "guid": "8e9f4439-9a49-48ff-b960-c181eb5fbd24",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "as",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://bsr2.test/",
+            "visit_count": 1
+         }, {
+            "date_added": "13381733496388532",
+            "date_last_used": "0",
+            "guid": "565de950-4995-4352-8ea8-bca80afbcfac",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Create Store / Sticky",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://sticky.test/stores/create",
+            "visit_count": 1
+         }, {
+            "date_added": "13391100828581510",
+            "date_last_used": "0",
+            "guid": "a46b0199-0116-4e8b-b083-6b57cec53ecc",
+            "id": "12",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost:57359/",
+            "visit_count": 1
+         } ],
+         "date_added": "13395541785089221",
+         "date_last_used": "0",
+         "date_modified": "13391100828581510",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13395541785089223",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13395541785089225",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDVwP5GXAQAAEgAqGGtoMWdEcWpQb2NiYU54LzhKSHVBSmc9PUgDoAYHEq0BCAsSqAEKHFFtOGY0UGtkUnNzalN6cXlLL0hnM1ZidkVwST0SJDU2NWRlOTUwLTQ5OTUtNDM1Mi04ZWE4LWJjYTgwYWZiY2ZhYxgAIAAoADCnpfOJ+TI4iLCJ5scyQIiwiebHMkocMUFMMWtvaTNIVDZVaU9sYTNUc3krVTluejdFPVofIh36UjZVSmg1VnlvaUIzdUxRWHhkdElTVFo5dHhrPWWfHI2ewj4CYAUSrQEIDBKoAQocUHYyVXBhTmRhMDBzTHVYRjlwcE5vbnBLNEMwPRIkYTQ2YjAxOTktMDExNi00ZThiLWIwODMtNmI1N2NlYzUzZWNjGAAgACgAMMT+4tjqMjjshOPY6jJA7ITj2OoyShx4NktOaDBDZGdqb1N4UXlFZjJyblVqZWVON2s9Wh8iHf13ZmhQempxaE10Z3NKWCtjbzIrb05QVFo3b009ZQefvdvCPgJgBRKtAQgKEqgBChxrUEdNMFcyZ3ZxQVFUbXdNMnI0YjhUK3VLS1U9EiQ4ZTlmNDQzOS05YTQ5LTQ4ZmYtYjk2MC1jMTgxZWI1ZmJkMjQYACAAKAAwtOD9ifkyOIiRhabBMkCIkYWmwTJKHFExZE5SRjUrekI5aklPY3I1S1dULzg3K0RSaz1aHyId9DkxNnZWMlJvcHE5bTZjdzZGQ0ZLR1NSUnBsdz1lHIb3lsI+AmAFEq0BCAkSqAEKHEV5TU55MysrSHFpeFhiTW9HTUpOK1BKWGY4Yz0SJDk4NTEyOTI0LWE0NDMtNDRlYy1iOTY4LTk3Y2EyMTJlNTFmZRgAIAAoADDG/uLY6jI4xZav4KQyQMWWr+CkMkocQlNzSk4ya29QRUw4NW1saEdMdXlDSHRWQ1d3PVofIh3pTUVROHhiS0M1OE9LNnV1dFNoa2k5WStUMFFvPWXmpfuiwj4CYAUSrQEICBKoAQocVzR5QmZwbG5lbHlpb3Irc1lVMzNvbzBmUzY0PRIkYTU3OTA2MDgtYjliNi00OTYwLTk5ODItMjAyZGZhYWZmM2QxGAAgACgAMMP+4tjqMjjMhr7p4DBAzIa+6eAwShxhWXVtNnNrMDNtTTI5b3JrRk5nMXI4ZGJaZU09Wh8iHdNIclB5a3FuWUpIenlmVHRWSWFVL0pmTkwwNzA9ZVmDjwzCPgJgBRKtAQgHEqgBChxJNWh2MElnSnBFdnZzZHJ5WCsrV3JDUVpRVWc9EiQ2YmQzYzgzZS04ZjVhLTQ1MzYtYTZkMy0xNTg3NmJmOGE5NmYYACAAKAAwoamWvO4yOLqHvungMEC6h77p4DBKHDZBVVRmQlJoTGRtM2pzbVhDbS84cTJiazRhTT1aHyIdp0U5dVlTWVdkc0dZR0NuYnJKSDAvaWJEc3ErVT1lw3XX38I+AmAFEqwBCAYSpwEKHHk1YVFBSmVGczlZbGZYc3JOWkJlTlFQME9BUT0SJDRlOWVjMDRjLTdkYzYtNDBmZi05MGM5LTEzZDI4ZmI2NjNiYxgAIAAoADDB/uLY6jI42Ye+6eAwQNmHvungMEocZUY3YXh3ZEtJMkZwTTRISUlvaldhTkNZVG5RPVoeIhxPY0p4SGd3YUVyMUxMUm0yY2EraHNadmIzWjg9ZTj5OTPCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ2NTliZDc3OS1iZjY2LTUwYjctYTg0Yi0wMTE2MDgzOTY2N2QYACAAKAAw1u6d3bIwOPiHmN/yL0D4h5jf8i9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNWMxMGNkMDMtZTA0OC01YTVmLWExNDctYjA0M2VjNTlmZTk1GAAgACgAMNbund2yMDjkh5jf8i9A5IeY3/IvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDc2Mjk0M2I2LTcxYmMtNWJjNS05OGFhLTc5NmQ0NDljNWFlMhgAIAAoADDW7p3dsjA4hIiY3/IvQISImN/yL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
